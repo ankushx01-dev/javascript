@@ -1,6 +1,17 @@
-# JavaScript Notes
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="120" alt="JavaScript Logo"/>
+
+# JavaScript Notes 
 
 ### Math Object • document.write() • Truthy & Falsy Values • Comparison Operators • Logical Operators
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![Day](https://img.shields.io/badge/Day-05-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-success?style=for-the-badge)
+
+</div>
+
 
 Learning JavaScript fundamentals step by step.
 
@@ -301,23 +312,7 @@ false
 
 ---
 
-# What I Learned Today
 
-* Math Object
-* Math.round()
-* Math.ceil()
-* Math.floor()
-* Math.pow()
-* Math.sqrt()
-* Math.random()
-* document.write()
-* Truthy Values
-* Falsy Values
-* Comparison Operators
-* Logical Operators
-* AND (&&)
-* OR (||)
-* NOT (!)
 
 ---
 

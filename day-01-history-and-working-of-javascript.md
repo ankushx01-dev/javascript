@@ -1,12 +1,21 @@
 <div align="center">
 
-# JavaScript Notes
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="120" alt="JavaScript Logo"/>
 
-### History • Working • REPL
+# JavaScript Notes 
+
+###  History • Working • REPL
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![Day](https://img.shields.io/badge/Day-01-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-success?style=for-the-badge)
+
+
 
 Learning JavaScript fundamentals step by step.
 
 </div>
+
 
 ---
 
@@ -117,12 +126,6 @@ console.log("Hello World");
 
 # What I Learned Today
 
-- History of JavaScript
-- JavaScript engines
-- How JavaScript works
-- Interpreted language
-- REPL concept
-- Basic JavaScript execution
 
 ---
 

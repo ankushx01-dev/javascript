@@ -1,13 +1,20 @@
 <div align="center">
 
-# JavaScript Notes
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="120" alt="JavaScript Logo"/>
 
-### Variables • Data Types • Naming Conventions • Template Literals
+# JavaScript Notes 
+
+###  Variables • Data Types • Naming Conventions • Template Literals
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![Day](https://img.shields.io/badge/Day-02-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-success?style=for-the-badge)
+
+
 
 Learning JavaScript fundamentals step by step.
 
 </div>
-
 ---
 
 # Variables in JavaScript
@@ -209,14 +216,6 @@ Hello Raj
 
 ---
 
-# What I Learned Today
-
-- Variables in JavaScript
-- let, const and var
-- Primitive and non-primitive data types
-- Naming conventions
-- Camel case
-- Template literals using backticks
 
 ---
 

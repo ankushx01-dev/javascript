@@ -1,6 +1,22 @@
-# JavaScript Notes
+
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="120" alt="JavaScript Logo"/>
+
+# JavaScript Notes 
 
 ### Decision Making • if-else • Nested if • Switch Statement • Ternary Operator • Variable Visualization
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![Day](https://img.shields.io/badge/Day-6-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-success?style=for-the-badge)
+
+</div>
+
+
+
+
+
 
 Learning JavaScript fundamentals step by step.
 
@@ -210,18 +226,7 @@ if (temperature > 30) {
 
 ---
 
-# What I Learned Today
 
-* Decision Making
-* if Statement
-* if...else Statement
-* if...else if...else Statement
-* Nested if
-* Switch Statement
-* break Keyword
-* Ternary Operator
-* Variable Visualization
-* Memory Concept in Variables
 
 ---
 

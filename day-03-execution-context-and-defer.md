@@ -1,13 +1,20 @@
 <div align="center">
 
-# JavaScript Notes
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="120" alt="JavaScript Logo"/>
 
-### Execution Context • Memory Creation Phase • Code Execution Phase • defer • debugger
+# JavaScript Notes 
+
+###  Execution Context • Memory Creation Phase • Code Execution Phase • defer • debugger
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![Day](https://img.shields.io/badge/Day-03-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-success?style=for-the-badge)
+
+
 
 Learning JavaScript fundamentals step by step.
 
 </div>
-
 ---
 
 # How JavaScript Executes Code
@@ -149,14 +156,6 @@ When execution reaches `debugger`, the browser pauses the code.
 
 ---
 
-# What I Learned Today
-
-- JavaScript execution context
-- Memory creation phase
-- Code execution phase
-- Single-threaded behavior
-- defer keyword
-- debugger keyword
 
 ---
 

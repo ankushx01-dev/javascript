@@ -1,8 +1,17 @@
+
 <div align="center">
 
-# JavaScript Notes
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="120" alt="JavaScript Logo"/>
+
+# JavaScript Notes 
 
 ### HTTP Requests & Responses • Dialog Boxes • Strings • Template Literals
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
+![Day](https://img.shields.io/badge/Day-04-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-success?style=for-the-badge)
+
+
 
 Learning JavaScript fundamentals step by step.
 
@@ -384,26 +393,6 @@ Backticks make code:
 
 ---
 
-# What I Learned Today
-
-- How websites work
-- HTTP Requests
-- HTTP Responses
-- Common HTTP status codes
-- alert()
-- confirm()
-- prompt()
-- String property: length
-- String methods
-- includes()
-- slice()
-- split()
-- trim()
-- toUpperCase()
-- toLowerCase()
-- Template literals (Backticks)
-- String interpolation
-- Multi-line strings
 
 ---
 
