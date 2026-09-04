@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: #212121;">
+    <button id="btn">Show Data</button>
+    <div id="card1">
+    </div>
+    <div id="card2" style="background-color: aliceblue;">
+    </div>
+</body>
+<script>
+    const requestUrl ='https://api.github.com/users/ankushx01-dev'
+    const xhr = new XMLHttpRequest()
+    const btn = document.querySelector('#btn')
+    xhr.open('GET',requestUrl)
+    
+    xhr.onreadystatechange=function(){
+        if (xhr.readyState === 4){
+        console.log(xhr.readyState);
+        const data =JSON.parse(this.responseText)
+        btn.addEventListener('click',(e)=>{
+            
+            document.querySelector('#card1').innerHTML=`<img src="${data.avatar_url}">`;
+            document.querySelector('#card2').innerHTML=` Followers: ${data.followers}`;
+        
+        })
+    }
+        
+    }
+    
+    
+    xhr.send()
+</script>
+</html>
