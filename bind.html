@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button>Click me</button>
+</body>
+<script>
+    class react{
+        constructor(){
+            this.user='achuu'
+            this.server='file:///c%3A/Users/Ankush%20Rana/Desktop/JavaScript/bind.html'
+            document
+            .querySelector('button')
+            .addEventListener('click',this.handleClick.bind(this))
+            
+        }
+        handleClick(){
+            console.log('You clicked me')
+            console.log(this.user)
+        }
+    }
+    const c = new react()
+</script>
+</html>
